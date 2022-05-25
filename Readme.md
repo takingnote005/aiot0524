@@ -30,6 +30,7 @@
   git push -u origin master
 '''
 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
+
 8. Final Result on High Charts
 ![highchart1](highchart1.png)
 ![hightchart3](highchart3.png)
