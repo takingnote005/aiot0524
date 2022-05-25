@@ -1,4 +1,4 @@
-# Huan Chen's Homework #5 (complete)
+# Ching-yi Homework #5 (complete)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
@@ -30,6 +30,9 @@
   git push -u origin master
 '''
 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
+8. High Chart
+<img scr="highchart1.png" title="Highchart1" width="300" height="150"/>
+<img scr="highchart2.png" title="Highchart2" width="300" height="150"/>
 
 
 
