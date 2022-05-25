@@ -31,8 +31,8 @@
 '''
 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
 8. High Chart
-<img scr="highchart1.png" title="Highchart1" width="300" height="150"/>
-<img scr="highchart2.png" title="Highchart2" width="300" height="150"/>
+![highchart1](highchart1.png)
+![hightchart2](highchart2.png)
 
 
 
