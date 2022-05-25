@@ -34,7 +34,7 @@
 
 8. Final Result on High Charts
 ![highchart1](highchart1.png)
-![hightchart3](highchart3.png)
+![highchart4](highchart4.png)
 
 
 
