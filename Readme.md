@@ -1,4 +1,4 @@
-# Ching-yi Homework #5 (complete)
+# Ching-yi V3 Homework #5 (complete)
 
 ## Lecture 14: IoT Flask Web (github, vs code)
 
@@ -30,7 +30,7 @@
   git push -u origin master
 '''
 7. Remeber to turn on xampp/MySQL (Apache is not necessary)
-8. High Chart
+8. Final Result on High Charts
 ![highchart1](highchart1.png)
 ![hightchart2](highchart2.png)
 
